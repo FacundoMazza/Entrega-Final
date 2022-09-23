@@ -18,6 +18,12 @@ header{
     align-items: center;
     justify-content: space-around;
     background-color: lightsalmon;
+    background-image: url(../img/planta24.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+
 
 }
 
