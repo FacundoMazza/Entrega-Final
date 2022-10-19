@@ -13,7 +13,7 @@ header{
             margin-top: 10px;
         }
         @media(min-width:1100px){
-            .logo img:hover{
+            img:hover{
                 transform:scale(1.1);
                 transition: all 3s;
                }
@@ -56,8 +56,8 @@ header{
     align-items: center;  
     img{
         border-radius: 5%;
-        width: 400px;
-        height: 350px;
+        width: 350px;
+        height: 300px;
         margin: 1em;
         
     }
